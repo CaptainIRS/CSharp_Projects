@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeTest", "..\BinaryTreeTest\BinaryTreeTest.csproj", "{604C31B3-BCA4-47E0-A400-B247EC78DFF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumeratorTest", "..\EnumeratorTest\EnumeratorTest.csproj", "{E4AE7374-383D-4D5B-B3A3-638D28278CEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{604C31B3-BCA4-47E0-A400-B247EC78DFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{604C31B3-BCA4-47E0-A400-B247EC78DFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{604C31B3-BCA4-47E0-A400-B247EC78DFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4AE7374-383D-4D5B-B3A3-638D28278CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AE7374-383D-4D5B-B3A3-638D28278CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AE7374-383D-4D5B-B3A3-638D28278CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AE7374-383D-4D5B-B3A3-638D28278CEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
